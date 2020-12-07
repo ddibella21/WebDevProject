@@ -1,0 +1,52 @@
+*{
+    background: lightgrey;
+}
+
+.mainHeader{
+
+}
+
+.mainHeader .container{
+    color: green;
+}
+
+.mainHeader .container h1{
+    text-align: center;
+}
+
+.mainHeader ul{
+    position: relative;
+    display: flex;
+    
+}
+
+.mainHeader ul li{
+    position: relative;
+    list-style: none;
+}
+
+.mainHeader ul li a{
+    position: relative;
+    display: inline-block;
+    margin: 0 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.heading{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.content{
+    display: flex;
+}
+
+.introduction{
+    background: white;
+}
+
+.introduction .heading{
+    color: blue;
+}
